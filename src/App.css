@@ -1,5 +1,16 @@
-.App {
-  text-align: center;
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~bootstrap/dist/css/bootstrap.css";
+
+:root{
+  --main-height:80px
+}
+
+
+.main {
+
+  margin-top: 150px;
+
+  
 }
 
 .App-logo {

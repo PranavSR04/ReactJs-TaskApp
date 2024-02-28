@@ -1,0 +1,1 @@
+export type userDetailsType ={email:string;password:string}

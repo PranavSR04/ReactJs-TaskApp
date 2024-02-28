@@ -1,0 +1,23 @@
+.light{
+    background-color: rgb(100, 137, 255);
+    color: black;
+}
+.dark{
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+.nav{
+    
+    height: var(--main-height);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    z-index: 100;
+    justify-content: space-between;
+
+}
+.btn{
+    padding: 20px;
+    
+}
